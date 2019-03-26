@@ -15,9 +15,9 @@ W projekcie zastosować dziedziczenie do opisu zachowania jednostek, tzn. klasa 
 
 Do wykonania interfejsu użytkownika można wykorzystać bibliotekę Qt bądź SFML.
 
-Do programu należy dostarczyć również ![dokumentację]("Diagram klas + założenia.docx") zawierającą krótki opis techniczny programu (diagram klas, założenia itd.) oraz krótką ![dokumentację dla użytkownika]("Opis programu.docx") z opisem programu.
+Do programu należy dostarczyć również [dokumentację](Dokumentacja.pdf) zawierającą krótki opis techniczny programu (diagram klas, założenia itd.) oraz krótką [dokumentację dla użytkownika](Dokumentacja_dla_uzytkownika.pdf) z opisem programu.
 
 ### Źródła
-1. ![Let's make 16 games in C++: Asteroids] (https://www.youtube.com/watch?v=rWaSo2usU4A)
+1. [Let's make 16 games in C++: Asteroids](https://www.youtube.com/watch?v=rWaSo2usU4A)
 
 *Migrated from Bitbucket.*
